@@ -9,7 +9,7 @@ Lemon-Stevie-Pad is an AutoHotkey scripted customisable graphical keypad.
 
 2. Set the [Keypad_Size] in the settings.ini.
 
-3. Run Lemon-Stevie-Pad.ahk
+3. Run Lemon Stevie Pad.ahk
 
 4. To show or hide the keypad press the "middle mouse button" and scroll the mouse wheel up and down, edit the hotkeys to your own prefernce in the settings .ini.
 
