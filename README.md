@@ -15,6 +15,8 @@ Lemon-Stevie-Pad is an AutoHotkey scripted customisable graphical keypad.
 
 4. To position the the keypad hold Shift+X and drag the window the coordinates will be saved in settings.ini.
 
+5. Set Lemon-Stevie-Pad [Keypad_Size] in settings.ini 
+
 
 # Customise
 
