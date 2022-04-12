@@ -2,7 +2,6 @@
 
 <img width="407" alt="Lemon-Stevie-Pad" src="https://user-images.githubusercontent.com/103465171/162855838-e2ae344e-8035-4fe6-b88d-4af8fc40d0b1.png">
 
-
 Lemon-Stevie-Pad is an AutoHotkey scripted customisable graphical keypad.
 
 
