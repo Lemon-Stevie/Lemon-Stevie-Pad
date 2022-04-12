@@ -26,3 +26,19 @@ Lemon-Stevie-Pad is an AutoHotkey scripted customisable graphical keypad.
 
 -Customise the audio of each button.
 
+
+# List of Keys
+
+Find a list of key values to customise the key bindings here https://www.autohotkey.com/docs/KeyList.htm
+
+
+# Input_up option
+
+For Key combinations such as "LShift + 1" use the input [Input_up] option in the settings.ini.
+
+example
+
+[Input_1]                         
+{LShift down}{1 down}          
+[Input_1_up]   
+{LShift up}{1 up}           
